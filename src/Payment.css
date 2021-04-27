@@ -1,0 +1,82 @@
+.payment {
+  background-color: white;
+}
+
+.payment .payment_container h1 {
+  text-align: center;
+  padding: 10px;
+  font-weight: 400;
+  background-color: #eaeded;
+  border-bottom: 1px solid lightgrey;
+}
+
+.payment .payment_container h1 a {
+  text-decoration: none;
+  color: black;
+}
+
+.payment .payment_container .payment_section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+  margin: 0 20px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.payment .payment_container .payment_section .payment_title {
+  -webkit-box-flex: 0.2;
+      -ms-flex: 0.2;
+          flex: 0.2;
+}
+
+.payment .payment_container .payment_section .payment_address {
+  -webkit-box-flex: 0.8;
+      -ms-flex: 0.8;
+          flex: 0.8;
+}
+
+.payment .payment_container .payment_section .payment_items {
+  -webkit-box-flex: 0.8;
+      -ms-flex: 0.8;
+          flex: 0.8;
+}
+
+.payment .payment_container .payment_section .payment_details {
+  -webkit-box-flex: 0.8;
+      -ms-flex: 0.8;
+          flex: 0.8;
+}
+
+.payment .payment_container .payment_section .payment_details form {
+  max-width: 400px;
+}
+
+.payment .payment_container .payment_section .payment_details form h3 {
+  padding-bottom: 20px;
+}
+
+.payment .payment_container .payment_section .payment_details form .payment_priceContainer button {
+  background: #2a2a2a;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: white;
+  cursor: pointer;
+  font-size: 0.8em;
+  width: 100%;
+}
+
+.payment .payment_container .payment_section .payment_details form .payment_priceContainer button:hover {
+  background: #111111;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: white;
+  cursor: pointer;
+  font-size: 0.8em;
+  width: 100%;
+}
+/*# sourceMappingURL=Payment.css.map */

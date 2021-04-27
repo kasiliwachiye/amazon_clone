@@ -1,0 +1,18 @@
+.order {
+  padding: 40px;
+  margin: 20px 0;
+  border: 1px solid lightgray;
+  background-color: white;
+  position: relative;
+}
+
+.order .order_id {
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
+
+.order .order_total {
+  float: right;
+}
+/*# sourceMappingURL=Order.css.map */

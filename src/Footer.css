@@ -1,0 +1,48 @@
+.footer {
+  background-color: black;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.footer .footer_line1 {
+  width: 25%;
+}
+
+.footer .footer_line1 h5 {
+  margin-top: 30px;
+}
+
+.footer .footer_line2 {
+  line-height: 2em;
+}
+
+.footer .footer_line3 input {
+  margin-top: 20px;
+}
+
+.footer .footer_line3 .send_icon {
+  margin-top: 25px;
+}
+
+.footer .socials {
+  cursor: pointer;
+}
+
+.footer .socials .socials_icons {
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+/*# sourceMappingURL=Footer.css.map */

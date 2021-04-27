@@ -1,0 +1,42 @@
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+    .footer_line1 {
+        width: 25%;
+        h5 {
+            margin-top: 30px;
+        }
+    }
+
+    .footer_line2 {
+        line-height: 2em;
+    }
+
+    .footer_line3 {
+        input {
+            margin-top: 20px;
+        }
+
+        .send_icon {
+            margin-top: 25px;
+        }
+    }
+
+    .socials {
+        cursor: pointer;
+
+        .socials_icons {
+            margin-top: 10px;
+            display: flex;
+            justify-content: space-around;
+        }
+    }
+}
+
