@@ -21,7 +21,7 @@ function Header() {
         <div className="header">
 
             <Link to="/">
-                <img className="header_logo" src="https://live.staticflickr.com/65535/51112999687_4ff00a4b37_k.jpg" alt="amazon_logo"/>
+                <img className="header_logo" src="https://live.staticflickr.com/65535/51112999687_4ff00a4b37_k.jpg" alt="essentiel_logo"/>
             </Link>
 
             <div className="header_search">
