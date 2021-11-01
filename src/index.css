@@ -8,6 +8,6 @@ body {
 
 @font-face {
   font-family: 'Helvetica Neue LT Std';
-  src: local("Helvetica Neue LT Std") url(./fonts/HelveticaNeueLTStd-LtCn.otf) format("opentype");
+  src: local("Helvetica Neue LT Std") url(./fonts/HelveticaNeueLTStd-Cn.otf) format("opentype");
 }
 /*# sourceMappingURL=index.css.map */
